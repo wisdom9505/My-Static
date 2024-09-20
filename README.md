@@ -1,1 +1,1 @@
-https://wisdom9505.github.io/MyCV/
+wisdom9505/My-Static-Website 
